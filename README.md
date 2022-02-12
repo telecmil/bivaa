@@ -23,7 +23,7 @@ Must have:
 Nice to have:
 - sladit pojmenování souborů a repa
 
-## Databáze
+## Databáze - složka db
 Obsahuje soubor pro sestavení databáze a nějaká ukázková data.
 
 
